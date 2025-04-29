@@ -1,0 +1,7 @@
+GET
+LOST
+SFX=GATA GATA
+O
+O
+mangavea
+ne1
