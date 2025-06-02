@@ -1,0 +1,7 @@
+SFX:TICKTOCK
+12
+5
+2
+3
+4
+THUD

@@ -1,0 +1,7 @@
+Translators/
+Typesetters: Null
+Raw
+Providers: Sewil
+English Onto
+Color: BOkutO
+Redrawer: Snir
